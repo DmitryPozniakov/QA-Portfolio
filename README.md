@@ -28,19 +28,11 @@ I am a passionate Junior QA Engineer focused on ensuring the highest quality in 
 - Swagger UI. Petstore [2024]
 
 ## Projects
-### Project 1: [Project Title]
+### Project 1
 - **Description:**  
-  A brief description of the project (e.g., a pet project testing an e-commerce web application).  
-- **Role:** Junior QA Engineer / Manual Tester
-- **Responsibilities:**
-  - Developed comprehensive test plans, test cases, and checklists.
-  - Conducted functional, regression, UI, and integration testing.
-  - Identified and reported bugs using a bug tracking system.
-- **Key Achievements:**
-  - Increased test coverage by X%.
-  - Discovered critical issues that were resolved pre-release.
-- **Links/Resources:** [Link to project repository or demo]
-
+This is my pet project for coursework, where I tested an e-commerce platform for tile purchases. I created test cases to check key functionalities like translations, form validation, pricing accuracy, and server performance. The goal was to find and fix issues to improve the user experience. This document contains structured test cases used to identify and resolve bugs.
+- **Test cases:**
+- 
 ### Project 2: [Project Title]
 - **Description:**  
   A brief description of another project (e.g., API testing for a mobile app).
