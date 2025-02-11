@@ -33,7 +33,7 @@ I am a passionate Junior QA Engineer focused on ensuring the highest quality in 
 This is my pet project for coursework, where I tested an e-commerce platform for tile purchases. I created test cases to check key functionalities like translations, form validation, pricing accuracy, and server performance. The goal was to find and fix issues to improve the user experience. This document contains structured test cases used to identify and resolve bugs.
 - **Test cases:**
 - ### Sample Documentation
-- [Test Cases PDF](PDFs/Test_Cases_Tile.pdf)
+- [Test Cases PDF](Test_Cases_Tile.pdf)
 
 ### Project 2: [Project Title]
 - **Description:**  
