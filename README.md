@@ -39,3 +39,15 @@ This is my pet project for coursework, where I tested an e-commerce platform for
 This is my pet project for coursework, where I tested and documented UI issues in a web platform. I identified layout misalignments on different devices and browsers, noted inconsistencies, and provided screenshots to highlight the problems. This document includes structured bug reports detailing each issue and expected corrections to improve the user experience.
 
 - [Bug reports](PDFs/Bug_repors_rezidenza.pdf)
+
+### Project 3
+- **Description:**
+This project was part of my coursework, where I focused on testing and validating an API system. I created structured test cases to verify data retrieval, filtering, sorting, and error handling in API responses. The goal was to ensure the API functioned correctly under different scenarios, including valid and invalid inputs. By executing these tests, I identified potential issues and inconsistencies, contributing to improving system reliability.
+
+- [Test Cases](PDFs/Test_Cases.S.pdf)
+
+
+
+
+
+
