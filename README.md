@@ -34,7 +34,7 @@ This is my pet project for coursework, where I tested an e-commerce platform for
 - **Test cases:**
 - ### Sample Documentation
 - [Test Cases](PDFs/Test_Cases_Tile.pdf)
-- [Bug Reports](PDFs/Bug reports_Tile.pdf)
+- [Bug Reports](PDFs/Bug_reports_Tile.pdf) 
 
 ### Project 2: [Project Title]
 - **Description:**  
