@@ -5,7 +5,7 @@
 - **Email:** pozniakovdmitry@gmail.com
 - **LinkedIn:** www.linkedin.com/in/dmitry-pozniakov
 
-I am a passionate Junior QA Engineer focused on ensuring the highest quality in software products. I have solid knowledge in manual testing techniques, test design, and I continuously improve my skills through pet projects and self-study. I am eager to contribute to innovative teams and grow professionally in the field of software quality assurance.
+I am a Junior QA Engineer focused on ensuring the highest quality in software products. I have solid knowledge in manual testing techniques, test design, and I continuously improve my skills through pet projects and self-study. I am eager to contribute to innovative teams and grow professionally in the field of software quality assurance.
 
 ## Skills
 - **Hard Skills:**
@@ -39,20 +39,3 @@ This is my pet project for coursework, where I tested an e-commerce platform for
 This is my pet project for coursework, where I tested and documented UI issues in a web platform. I identified layout misalignments on different devices and browsers, noted inconsistencies, and provided screenshots to highlight the problems. This document includes structured bug reports detailing each issue and expected corrections to improve the user experience.
 
 - [Bug reports](PDFs/Bug_repors_rezidenza.pdf)
-
-
-
-### Sample Test Case
-```markdown
-**Test Case ID:** TC001  
-**Title:** Verify User Registration Form Validation  
-**Preconditions:** User is on the registration page.  
-**Test Steps:**
-1. Enter valid data in all mandatory fields.
-2. Click the "Register" button.
-**Expected Result:**  
-- A new user account is created and the user is redirected to the welcome page.
-**Actual Result:**  
-- [To be filled after execution]
-**Status:** Pass/Fail  
-**Comments:** [Any additional observations]
