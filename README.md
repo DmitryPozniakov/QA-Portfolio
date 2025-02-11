@@ -21,11 +21,11 @@ I am a passionate Junior QA Engineer focused on ensuring the highest quality in 
   - Automation (Basics): Selenium WebDriver
 - **Soft Skills:** Analytical thinking, attention to detail, proactive communication, teamwork
 
-## Courses & Certifications
-*(List your relevant courses and certifications here)*
-- ISTQB Foundation Level Certification – [Year]
-- [Course Name] – [Institution/Platform] – [Year]
-- [Additional Certification or Course]
+## Courses & Self-studies
+- Hillel IT School. Manual QA [2024]
+- Udemy.Tester from scratch. Artsiom Rusau[2024]
+- W3School. SQL Tutorial
+- Swagger UI. Petstore [2024]
 
 ## Projects
 ### Project 1: [Project Title]
